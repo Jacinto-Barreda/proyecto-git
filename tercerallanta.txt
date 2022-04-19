@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 cambio en la segunda rama
 dafdasdasdasd
 asdasdasdasda
-=======
-cambio en la segunda rama
->>>>>>> segunda
