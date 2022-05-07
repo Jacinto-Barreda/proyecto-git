@@ -11,3 +11,7 @@ def index():
 @app.route("/")
 def index():
      return "hello farlen"
+
+@app.route("/")
+def index():
+     return "hello gato"
